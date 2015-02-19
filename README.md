@@ -23,4 +23,11 @@ Documark plugin for adding math formulas to your document.
 	p Some other text with inline math %% \sqrt{b^2-4ac} %%. Neat!
 	```
 
+3. The output will look something like this:
+
+	![screenshot](assets/screenshot.png)
+
+	See the `Example.pdf` of the [Documark example][documark-example] for the final result.
+
 [mathjax]: http://www.mathjax.org/
+[documark-example]: https://github.com/mauvm/documark-example
