@@ -1,4 +1,3 @@
-<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script type="text/x-mathjax-config">
 	MathJax.Hub.Config({
 		// jax: ['input/TeX', 'output/HTML-CSS'],
@@ -10,9 +9,13 @@
 			displayMath: [ ['$$', '$$'] ],
 			processEscapes: true
 		},
-		// 'HTML-CSS': { availableFonts: ['TeX'] },
+		'HTML-CSS': {
+			preloadWebFonts: ["MathJax_Main-italic","MathJax_Main-bold","MathJax_AMS",
+				"MathJax_Size2","MathJax_Size3","MathJax_Size4","MathJax_Caligraphic"]
+		},
 
 		showProcessingMessages: false,
 		messageStyle: 'none'
 	});
 </script>
+<script src="http://cdn.mathjax.org/mathjax/2.5-latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
