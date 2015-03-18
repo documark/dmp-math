@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mauvm/dmp-math.git"
+    "url": "https://github.com/documark/dmp-math.git"
   },
   "keywords": [
     "documark",
@@ -16,7 +16,7 @@
   "author": "Maurits van Mastrigt <maurits@nerdieworks.nl>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mauvm/dmp-math/issues"
+    "url": "https://github.com/documark/dmp-math/issues"
   },
-  "homepage": "https://github.com/mauvm/dmp-math"
+  "homepage": "https://github.com/documark/dmp-math"
 }

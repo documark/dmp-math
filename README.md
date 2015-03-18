@@ -1,7 +1,7 @@
 # Documark Math
 
 [![npm version](https://badge.fury.io/js/dmp-math.svg)](http://badge.fury.io/js/dmp-math)
-[![dependency status](https://david-dm.org/mauvm/dmp-math.svg)](https://david-dm.org/mauvm)
+[![dependency status](https://david-dm.org/documark/dmp-math.svg)](https://david-dm.org/documark/dmp-math)
 
 > Documark plugin for adding math formulas to your document.
 
@@ -33,4 +33,4 @@
 	See the `Example.pdf` file of the [Documark example][documark-example] for the final result.
 
 [mathjax]: http://www.mathjax.org/
-[documark-example]: https://github.com/mauvm/documark-example
+[documark-example]: https://github.com/documark/documark-example
